@@ -1,0 +1,201 @@
+annotation_id,customer_message,intent_proposed,predicted_intent
+1,Hey - what s up with the error showing up for I on instagram and facebook? Showing up as an A and a ? In a box?,general_complaint_unclear,device_hardware_issue
+2,Your stupid fix didn t work,general_complaint_unclear,general_complaint_unclear
+3,"Can t receive calls, I m on iOS 11.1.1",software_update_issue,software_update_issue
+4,Why can t I access my music from the control center? I need that back,general_complaint_unclear,apps_media_services
+5,I updated to iOS 11.1 &amp; now I m receiving texts on my watch but they re not showing on my phone. I ve already restarted...,data_storage_backup,software_update_issue
+6,Why does it take long for Apple Music to go back on my phone?,apps_media_services,apps_media_services
+7,"my phone keeps deleting everything, I have lost 2 years of texts and pictures, what can I do about this?",data_storage_backup,product_howto_information
+8,I see u updated ur iPhone. Can't say 'I'. As you can see I refuse to do the update. Battery dies in seconds too. Not cool.,battery_power_charging,software_update_issue
+9,"i charged my phone to 80%, was at 50% when I was at work, drove home (8 mins!) and now it's at 36%, pls fix this",billing_purchase_payment,billing_purchase_payment
+10,Thanks! It's just this one Wi-Fi--my home network.,connectivity_network,connectivity_network
+11,thanks for the iPhone update! NOT it s totally buggered up my phone making it freeze and slow,software_update_issue,software_update_issue
+12,"pls help. When I plug my phone in, the apple logo pops up, and then the logo goes away and the phone is shut off. I can't seem to fix this, and I'm not sure what to do :/",general_complaint_unclear,device_hardware_issue
+13,"I updated to the new iOS recently, and it keeps crashing my phone and various apps also...what can I do?",software_update_issue,software_update_issue
+14,"- how do I track a weight lifting workout on my Apple Watch Series 2 as an Activity""?I feel like I'm not getting credit",product_howto_information,product_howto_information
+15,"well, you see that s the thing. I removed the program file folders from the trash so that the program would be completely removed from my computer. Now I m just trying to erase my drive and reinstall High Sierra, but now my drive is unrepairable and not bootable.",software_update_issue,apps_media_services
+16,"Gutted. At Southampton store y day, told there d no NO B/Friday deals so bought MacBook Air. Today email: wd be £120 gift card",billing_purchase_payment,billing_purchase_payment
+17,So.. is this due to the update that I'm refusing thus far?,software_update_issue,software_update_issue
+18,Dear thank you for turning my iPhone 6s into a piece of shit due to ios11. Planned obsolescence- got it. Next phone Apple? No thx.,software_update_issue,general_complaint_unclear
+19,"I m getting notifications that my cloud storage is full, &amp; I m not interested in subscribing for more. Can I disable those alerts?",data_storage_backup,data_storage_backup
+20,"been passed from one advisor to another, who only tell me since photos are not on iCloud, there is NO way to retrieve photos",data_storage_backup,product_howto_information
+21,"ever since had the most recent update your app keeps stalling and freezes my phone, help!!! I can t work without you",software_update_issue,software_update_issue
+22,Yo y all need to fix this bug,general_complaint_unclear,general_complaint_unclear
+23,"omg please fix this ASAP, I don't wanna download every album again",general_complaint_unclear,general_complaint_unclear
+24,so why does my music turn off the moment I get a text or I open an app?? Been doing it all day.,general_complaint_unclear,apps_media_services
+25,Thanks why is my lighting cable bullshit? In under 6 months I can t charge my iPad.,billing_purchase_payment,battery_power_charging
+26,I purchased extra storage but it's not reflecting. Can you help,billing_purchase_payment,data_storage_backup
+27,How long is gonna let this I thing go on for until they fix I t. They re prob getting so much enjoyment out of I t,general_complaint_unclear,general_complaint_unclear
+28,What s up with these I replacements they re soooo annoying! fix this !,general_complaint_unclear,general_complaint_unclear
+29,"iOS 11.0.3 really just awful for my iPhone 7. Can t make calls, apps not responding, and it freezes.",software_update_issue,software_update_issue
+30,"There is no damn way, my storage is full. I barely have anything on my phone.",data_storage_backup,data_storage_backup
+31,Thanks. It s an iPhone 7 with version 11.0.1,general_complaint_unclear,general_complaint_unclear
+32,After update to 11.2 volume rocker no longer works.,software_update_issue,software_update_issue
+33,used to love apple now if not fixed soon switching phones,general_complaint_unclear,general_complaint_unclear
+34,This shit don't work on my phone what tha fuck man? Tryna get a nigga got outchea?,general_complaint_unclear,general_complaint_unclear
+35,i've been trying to reset my apple id password&amp;i'm always asked to wait 24h for the code on my phone but i never received any?,account_access_security,account_access_security
+36,"Hey , it s been many yrs that I ve had an iPhone and this is the 1st time an iOS update kills my battery by lunch time. Fix this plz",battery_power_charging,software_update_issue
+37,"Hey , your charger probably isn t supposed to get so hot it burns my arm... wanna figure that shit out?",battery_power_charging,battery_power_charging
+38,Why tf isn t my iMessage working ??? Y all suck it s a new problem everyday,general_complaint_unclear,apps_media_services
+39,the keyboard keeps disappearing on the iPhone 7 ever since the iPhone 8 (and coincidently the iPhone 7 bug/upgrade) dropped.,software_update_issue,software_update_issue
+40,I mean... Has the AC connected and it s going down lol that s hilarious,general_complaint_unclear,general_complaint_unclear
+41,My shit dies on 30% and restarts when I plug my headphones in way to force the upgrade,software_update_issue,device_hardware_issue
+42,"hi! I m having problems with my do not disturb mode. I have it on the allow calls from favourites setting, but when someone calls from my favourites when DND is on, it doesn t ring on loud. Please can you help",general_complaint_unclear,device_hardware_issue
+43,"Yes, the twitter app does not open.",general_complaint_unclear,apps_media_services
+44,Current version iOS 11.0.3,software_update_issue,software_update_issue
+45,"I cannot get thru a single project without either Photoshop or iMovie crashing at some point. , can you please get your shit together?",device_hardware_issue,general_complaint_unclear
+46,"I've got the iPhone 6s and want to install the latest update but I'm concerned I'd have to connect it to a laptop to complete the update, but I do not have one anymore, pls assist?",software_update_issue,software_update_issue
+47,Need to get the OS x 10.9 update on an old Mac OS 10.8 help,software_update_issue,software_update_issue
+48,Is there any possibility to combine two Apple-IDs?,product_howto_information,general_complaint_unclear
+49,"Why every time I start my iMac, it asks me to sign my iCloud account, I do it and it ask once more, and again, and again...???",account_access_security,account_access_security
+50,I updated to 11.0.2 and it didn't help. Went from 100% to 32% on my morning run. Used to be at 85 - 90% under same usage before iOS 11,software_update_issue,software_update_issue
+51,The new update is horrible! My podcast feed is messed up and disorganized. And my phone keeps beeping for no reason???,apps_media_services,software_update_issue
+52,My iPhone 7 is a piece of crap. I paid for it not to work. I want my 750.00 back in cash,billing_purchase_payment,billing_purchase_payment
+53,I updated my phone and now nothing works.,software_update_issue,software_update_issue
+54,So this is my lockscreen. Why the hell is there no time and date,general_complaint_unclear,device_hardware_issue
+55,"Hey fix this dang bug occurring with I . Don t give me a backwards fix, solve the problem you created with your bad update.",software_update_issue,software_update_issue
+56,how do i report a High Sierra bug? full-screen preview grid doesn't allow me to scroll.,software_update_issue,device_hardware_issue
+57,Love my new MacBook Pro... Hate the fact my 6 year old Pro has better battery life than this brand new one,battery_power_charging,battery_power_charging
+58,"My iphone 6s got wet, now the screen keeps going on and off without being touched, and going white with the black apple logo. Any advice?",device_hardware_issue,device_hardware_issue
+59,These updates are ruining my . The battery is now pitiful. It s been on 45 mins and down to 70% -Coincidence?,battery_power_charging,battery_power_charging
+60,Oh that s fuckin great. The phone crash problem is back with .,device_hardware_issue,general_complaint_unclear
+61,"Yep. In settings, the wifi is on but says not connected. I have to toggle it on and off 2-3 times before it allows me to be connected again.",connectivity_network,connectivity_network
+62,Ever since updating to I've been getting this message daily even though I select Always Allow. Suggestions?,software_update_issue,software_update_issue
+63,When will you guys completely fix this question mark thing?,product_howto_information,general_complaint_unclear
+64,Awrite av got a problem with my iPhone,general_complaint_unclear,general_complaint_unclear
+65,"same here! got the same problem too, please help",general_complaint_unclear,general_complaint_unclear
+66,Also what is the delayed response while typing?! I should able to send messages that aren t a jumbled mess of letters,product_howto_information,product_howto_information
+67,Wat is dit nou weer. Touch id doet het in 1 keer niet meer,device_hardware_issue,device_hardware_issue
+68,"please fix ur new ios. My iPhone X keeps turning off cellular data by it self. Disappearing contacts, Bluetooth turns on by it self. Disappointed customer.",connectivity_network,connectivity_network
+69,can you explain to me why eye can t type the letter i capitalized without it doing this nonsense?,general_complaint_unclear,general_complaint_unclear
+70,"WTF did your new update do to my phone, I can't type ""I"" on my phone without it being changed to random symbols.",software_update_issue,software_update_issue
+71,Yes I have my Siri on the right and play/pause on the left,general_complaint_unclear,general_complaint_unclear
+72,"Hi, getting error message when trying to install latest version on windows pc. Can you advise please?",software_update_issue,general_complaint_unclear
+73,Yes it is. And my Wi-fi keeps dropping. And I keep having problems with the mail client where it won t let me return to my inbox,connectivity_network,connectivity_network
+74,why is my iPhone 6 Plus lagging so much,device_hardware_issue,general_complaint_unclear
+75,I can t deal anymore... can u fix this problem I t is making me upset,general_complaint_unclear,product_howto_information
+76,"Hey , I already pay for so why is it just this morning asking me to join/not giving me an option to sign in....",account_access_security,account_access_security
+77,Is this happening to anyone else ? This is frustrating,general_complaint_unclear,general_complaint_unclear
+78,What's happening to my battery? It suddenly changes its percentage when I put it to charge/drops to 1% when in use.,billing_purchase_payment,battery_power_charging
+79,(I realise that s a bit of a contradiction. Look forward to hearing from you ),general_complaint_unclear,general_complaint_unclear
+80,my brightness will randomly change by its self as well as my volume and my low power mode and bluetooth will turn on and off randomly,connectivity_network,battery_power_charging
+81,My pod is broken can u fix it,general_complaint_unclear,device_hardware_issue
+82,Mainly iMessage but also Facebook Messenger. I would say it is laggin 75% of the time.,general_complaint_unclear,apps_media_services
+83,here s your daily reminder that your product is trash I,general_complaint_unclear,general_complaint_unclear
+84,"Installed and my late 2011 Mac is not working, it had no issues previously . I got it booted up, after reinstalling High Sierra, then I shut down &amp; it does not work. Here s what my screen looked like the other day. Any ideas?",software_update_issue,device_hardware_issue
+85,"I am very unhappy my iPhone decided to update itself without my permission, and now it doesn t work! Get me a new phone or give me my old software back!",software_update_issue,software_update_issue
+86,I feel like I ve gone back in time to dial up internet with how slooooooow iOS 11.0.3 has made my phone,software_update_issue,software_update_issue
+87,My icloud account has been locked for security reasons. Even my Apple ID is locked. I can't receive my confirmation code.,account_access_security,account_access_security
+88,So there's no way to turn off iOS auto download ?,software_update_issue,product_howto_information
+89,"what gives? You guys release updates by the minute but you re taking you re time fixing this A? keyboard issue. If you can release a $1,000 phone surely you can make it work correctly",device_hardware_issue,general_complaint_unclear
+90,when y all plan on fixing these ugly ass boxes popping up instead of I ?,general_complaint_unclear,general_complaint_unclear
+91,This I thing is annoying,general_complaint_unclear,general_complaint_unclear
+92,"i cant call anyone, take calls, or take videos. what the fuck fix your fucking ios 11 bullshit",software_update_issue,software_update_issue
+93,No it doesn t recognize it. I did diagnostic with Apple Care and it failed. Not sure how you expect me to mail my phone in.,general_complaint_unclear,product_howto_information
+94,&amp; neither of them have a customer service number to call,product_howto_information,general_complaint_unclear
+95,"When other people do, makes sense, thanks!",general_complaint_unclear,general_complaint_unclear
+96,"So my iPhone has been a nightmare since the update. Try to review things or look at accounts and end up deleting and unfollowing in addition to all of the other problems. This is bullshit,",software_update_issue,software_update_issue
+97,"I m still getting the I glitch after updating iOS, anything I can do?",software_update_issue,software_update_issue
+98,i m using a 6s and im on iOS 11.0.2,software_update_issue,software_update_issue
+99,can t use this iCloud back up on my iPhone X why help,general_complaint_unclear,data_storage_backup
+100,hi! What s the problem with ur ios? Home button and touch screen is not as fluid as before? Help please tnx,device_hardware_issue,device_hardware_issue
+101,Do better only 3 weeks and this charger set on fire,battery_power_charging,battery_power_charging
+102,if I buy a Watch 3 from AT&amp;T can it be used on Verizon?,billing_purchase_payment,general_complaint_unclear
+103,"I have a iPhone 7 on iOS 11.0.2, it's constantly freezing and battery life is draining me let alone the phone!",battery_power_charging,battery_power_charging
+104,How do i Setup iTunes default playlist to shuffle all songs? when i hit play on my keyboard it only play the downloaded ones,apps_media_services,apps_media_services
+105,Super disappointed with &amp; this update ! My iPhone 7 keeps on acting up &amp; it s really getting on my nerves,software_update_issue,software_update_issue
+106,a chaque fois que je regarde des vidéos sur mon iPhone 8 la vidéo coupe pendant 5seconde mais le son reste Corriger sa!,general_complaint_unclear,general_complaint_unclear
+107,"Yes, no sound 11.2",device_hardware_issue,general_complaint_unclear
+108,Didn t really help. I m looking to find the feed of past episodes of the podcast I scribe subscribe to.,apps_media_services,apps_media_services
+109,is there a way to undo the update and go back to a normal iPhone?,software_update_issue,software_update_issue
+110,I think I need a new my phone is stuck in Twitter and I can t get out of the app!,device_hardware_issue,apps_media_services
+111,my new iPhone X can t back up and it keeps saying it failed to reach Apple servers. Any word on when this will be fixed?,general_complaint_unclear,device_hardware_issue
+112,"Fix your shit , I m sick of my phone dying at 20%",general_complaint_unclear,general_complaint_unclear
+113,"My Apple TV is still broken and when I went to I was told to try and go buy another cord at Best Buy to restore it for the second time and that it's ""not an apple thing"". You're kidding right",billing_purchase_payment,data_storage_backup
+114,when is my I not going to autocorrect to something ridiculous?,device_hardware_issue,general_complaint_unclear
+115,If you have an iPhone or any Apple device don't try to upgrade iOS 11 you will be badly surprised and No,software_update_issue,software_update_issue
+116,"I had zero problems with my phone before I updated. Now i have 99 problems, thanks",software_update_issue,software_update_issue
+117,hi. Trying to reset my Apple ID password. It doesn t recognise my trusted phone number. Please help!,account_access_security,account_access_security
+118,my downloaded music keeps disappearing why ? Please help.,general_complaint_unclear,general_complaint_unclear
+119,this is annoying. Can t control music from lock screen when connected to Bluetooth earphone. Please help x,connectivity_network,connectivity_network
+120,Why is IOS 11 fucking with phone s battery,battery_power_charging,software_update_issue
+121,i m over this new update. u suck,software_update_issue,software_update_issue
+122,Hey why promote when it's not yet live? You're just creating confusion in the wording of the 11.2 update notification.,software_update_issue,software_update_issue
+123,iPhone 6s has no cellular! Antenna issue? Any options other than replacing? Phone is only a year old!,connectivity_network,connectivity_network
+124,"So I got a iPhone 7 right, and I don t even drop it or anything. But everytime I get a new ios update my phone starts moving slow. Feel me ?",software_update_issue,software_update_issue
+125,why am I locked out of my iCloud account ?,account_access_security,account_access_security
+126,it s very slow and glitches a lot !!!!!!,device_hardware_issue,general_complaint_unclear
+127,"MacOS High Sierra 10.13.1 broke the 5ghz Wi-Fi connection on MacBook Pro (Retina, 15-inch, Late 2013). Same router, work previously, now it doesn't. It's 2017, why is this still a thing?",connectivity_network,connectivity_network
+128,"OK, switched to 2TB plan. Do I tell my sister to cancel her 200GB plan? Will she have access to the 2TB immediately?",data_storage_backup,account_access_security
+129,has been the single worst update ever releasesed. Keychain passwords have been lost and mbp does not boot anymore.,data_storage_backup,software_update_issue
+130,how can I fix this?,product_howto_information,product_howto_information
+131,What are you guys doing to help matters please ? Both my Naira and Dollar cards can t be used on the Apple App. Store. Hahba.,billing_purchase_payment,apps_media_services
+132,Battery down! Please,battery_power_charging,battery_power_charging
+133,Hey fix the issue with the new IOS 11 update draining my iPhone battery,battery_power_charging,software_update_issue
+134,Thanks - you bring out the new phone and iOS update and once again my old phone is knackered. This sales tactic is wanky!,software_update_issue,software_update_issue
+135,my phones tripping wassup with that ?,general_complaint_unclear,general_complaint_unclear
+136,nope not on shuffle. it just reorganizes the songs in the playlist into its own order on my phone and won't let me change it on the phone,general_complaint_unclear,device_hardware_issue
+137,YOU DONE FUCKED UP,general_complaint_unclear,general_complaint_unclear
+138,how come we keep getting question marks for random emojis and letters?!,general_complaint_unclear,general_complaint_unclear
+139,My phone is TRIPPEN! we about to fight.,general_complaint_unclear,software_update_issue
+140,my wife and I are not seeing our iCloud photos on our new iPhone Xs looks like this,data_storage_backup,general_complaint_unclear
+141,"everyone s iPhones are seeing a question mark inside a box whenever the letter I is used...been happening since last update...please fix, it is annoying",software_update_issue,software_update_issue
+142,"Hey . . . get your act together. 3 custom iMacs in 3 weeks, all defective, and horrific customer service. Not the way to treat loyal customers. You've slipped BIG TIME!",product_howto_information,general_complaint_unclear
+143,I have iOS 11.1.2 The screen works but there are the vertical and horizontal lines across my screen that make it difficult to see. Near the top of the screen some of the LCDs even appear to be dark/blown out. It just happened last night.,software_update_issue,device_hardware_issue
+144,"The message sends green, but works fine with everyone else",general_complaint_unclear,general_complaint_unclear
+145,"How exactly am I supposed to try it again, if it never asked me to activate in the first place.",general_complaint_unclear,general_complaint_unclear
+146,Yo what s going on with I,general_complaint_unclear,product_howto_information
+147,FIX THE DAMN LETTER I &amp; GIVE ME A GARIFUNA FLAG EMOJI,general_complaint_unclear,general_complaint_unclear
+148,"It will verify for a good few minutes and then come up saying update error, only got the iPad a few hours ago",software_update_issue,software_update_issue
+149,is there any way I can check the overall battery health of my 7+?,battery_power_charging,battery_power_charging
+150,I have tried but nothing is working. What do I do. Please help!,general_complaint_unclear,general_complaint_unclear
+151,ive update my ipad air to ios 11 and its sooooo slow. Ive reboooted it. Is there any wsy i can downgrade it to ios 10?,software_update_issue,software_update_issue
+152,Hey it d be really great if you gave users the option to replace the battery icon with a percentage icon OR show the percentage inside the battery icon on the iPhone X,battery_power_charging,battery_power_charging
+153,this is whts happening with ur ios11 and abv updates blacked out screen,software_update_issue,device_hardware_issue
+154,does account recovery really take several days?,account_access_security,account_access_security
+155,i dmed you my problem. please check your dm s.,general_complaint_unclear,general_complaint_unclear
+156,Never in my life have I had so many problems with my phone before whyyyyy,general_complaint_unclear,battery_power_charging
+157,Is it me or is there something wrong with s latest ? acting strangely,general_complaint_unclear,general_complaint_unclear
+158,"iOS 11, iphone, trying to get the free trial of vscoX - cannot connect to iTunes Store - please help.",apps_media_services,apps_media_services
+159,iPhone 8 with iOS 11.1.1,software_update_issue,software_update_issue
+160,when will you fix the bug with letter I ? Get a glitch with a A?,product_howto_information,general_complaint_unclear
+161,Bro this dumb upgrade is making my phone tweak. I m buying the X. Give me a break,software_update_issue,software_update_issue
+162,I have updated to the latest verion but its a bad user experience,software_update_issue,software_update_issue
+163,see the A Well there is something wrong w/it. My daughters iPhone X won t let her do anything. She had 2 use Hey Siri. Hlp,general_complaint_unclear,general_complaint_unclear
+164,two weeks ago i left my macbook pro in (Chile) due to 4 keys pasted (coffee) and today when i went to look for him i found it in a horrible condition! the screen sound when you open it! and the base was left open! Im really disapointed,device_hardware_issue,device_hardware_issue
+165,My phone is driving me mad! keeps freezing and not opening apps! It s virtually a new iPhone7 sort it out,device_hardware_issue,software_update_issue
+166,How do I set up Apple Pay cash.,billing_purchase_payment,product_howto_information
+167,downloaded 11.0.3 and now my 7 is all buggy and I m still leasing it. No thanks. This will be my last product.,general_complaint_unclear,software_update_issue
+168,Also this I thing is really annoying! Do something,general_complaint_unclear,general_complaint_unclear
+169,"I m not attacking or tryn to cause drama, I just really need the Info that s on my note app. I m an international student so Losing it is going to affect me because it has important University/Bank info.",general_complaint_unclear,apps_media_services
+170,When I add an ext display it takes over as the primary desktop. How do I keep my MacBook (late 2016 w/ TouchBar) as primary?,device_hardware_issue,device_hardware_issue
+171,", what have you done to my phone, doing an update and I'm 6 hours in and still a blank phone , not happy",software_update_issue,software_update_issue
+172,my phone is frozen and IM GETTING PISSED,device_hardware_issue,general_complaint_unclear
+173,i have a iphone 7 plus and it s always like making my phone screen stay sideways,device_hardware_issue,device_hardware_issue
+174,This morning and no I haven t.,general_complaint_unclear,general_complaint_unclear
+175,"Dear The ios 11 has a failure in the keyboard, ussually when I enter to wpp and some of the apps, they dissapear from time to time...",software_update_issue,software_update_issue
+176,"Howdy. Today I started getting a ""No Sim Card Installed"" message on my iPhone 6. I'm running 9.2.1 ???",billing_purchase_payment,connectivity_network
+177,All apps / have to manually shut off phone each time by hard reset . Surprising thing is I updated day available and had no issues till yesterday . I reset phone to factory settings and reset from iCloud and now even worse . Typing this message ha now used 15 % of battery .,battery_power_charging,battery_power_charging
+178,Hi . Was just wondering when the update to fix the lock screen music/ radio/ podcasts problem.,apps_media_services,device_hardware_issue
+179,iOS update drains my iPhone 6s battery. Please fix!,battery_power_charging,software_update_issue
+180,. why the hell cant I type an I ? The letter between h and j.,general_complaint_unclear,general_complaint_unclear
+181,it s high time Apple please fix iOS 11 even with the latest iOS i.e 11.1.1 its still battery hungry.. Also a new issue in Apple Music while playing songs online in Apple Music.. please please fix..,battery_power_charging,software_update_issue
+182,This update has my phone TRIPPING and I am not here for it,software_update_issue,software_update_issue
+183,iPhone SE. I m using the latest version of iOS 11 (11.0.3),software_update_issue,software_update_issue
+184,We spend all this money on this damn phone for y all to not be able to fix this damn A box ? mark crap by now. Run us our money.,general_complaint_unclear,general_complaint_unclear
+185,the SMC took care of both problems thank you for the information!,general_complaint_unclear,general_complaint_unclear
+186,The latest iOS boosted my text size. I cannot return to a standard size in Settings in the Text Size control. What gives??,general_complaint_unclear,software_update_issue
+187,the update made it so that I can t airdrop songs from garageband to my voice notes. You ve ruined me.,data_storage_backup,software_update_issue
+188,can u acknowledge that you're looking into a solution for this!? It is very frustrating to not be able to type work emails!!!,general_complaint_unclear,general_complaint_unclear
+189,"Nearly burnt the house down. Official cable and iPad plug, fire risk",battery_power_charging,general_complaint_unclear
+190,"I get the message attached. When I tried via web, Zimbabwe is not listed as one of the countries that can contact you for support.",product_howto_information,product_howto_information
+191,After updating to 11.0.3 battery drains quick and takes for ever to charge. Screen stay Horizontal when you go back vertical.,billing_purchase_payment,battery_power_charging
+192,my iPhone 7 batter drains so quickly after doing the update. What can I do to fix this?,software_update_issue,software_update_issue
+193,"My is horrible now. This update was a major setback and it is impacting my super busy professional life. Thank you, . I hope this is being addressed.",software_update_issue,software_update_issue
+194,It s still not working as it was prior to the update,software_update_issue,software_update_issue
+195,"Thanks. No, it s on many types of notifications in note center. Typically in the top note above the Earlier Today section. Occasionally in the top note OF the Earlier Today section. I ll screenshot next appearance...",general_complaint_unclear,device_hardware_issue
+196,weird visual noise on aliasgrace show in 4K. Pls fix. 4K Apple TV,apps_media_services,apps_media_services
+197,yo I have purchased movies via Apple TV why is it taking so long to load?,billing_purchase_payment,apps_media_services
+198,"Ach , warum? WARUM? Und dann noch dieser Umlaut-fail.",general_complaint_unclear,general_complaint_unclear
+199,my phone keeps auto correcting the letter I to a stupid question mark in a box. It s annoying and happened after the update,software_update_issue,software_update_issue
+200,why when I type I some weird ass exclamation mark comes up? Y all fucking up with all these updates man.,general_complaint_unclear,general_complaint_unclear

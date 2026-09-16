@@ -1,0 +1,11 @@
+,account_access_security,apps_media_services,battery_power_charging,billing_purchase_payment,connectivity_network,data_storage_backup,device_hardware_issue,general_complaint_unclear,product_howto_information,software_update_issue
+account_access_security,7,0,0,0,0,0,0,0,0,0
+apps_media_services,0,5,0,0,0,0,1,0,0,1
+battery_power_charging,0,0,9,0,0,0,0,1,0,6
+billing_purchase_payment,0,2,3,3,1,2,0,1,1,0
+connectivity_network,0,0,1,0,7,0,0,0,0,0
+data_storage_backup,1,0,0,0,0,2,0,1,2,3
+device_hardware_issue,0,1,0,0,0,0,6,8,0,1
+general_complaint_unclear,0,6,1,0,0,1,8,40,3,3
+product_howto_information,0,0,0,0,0,0,0,5,4,0
+software_update_issue,0,1,0,0,0,0,5,2,1,44

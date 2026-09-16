@@ -1,0 +1,8 @@
+{
+  "majority_class": "general_complaint_unclear",
+  "majority_accuracy": 0.31,
+  "majority_macro_f1": 0.04732824427480916,
+  "tfidf_accuracy": 0.635,
+  "tfidf_macro_f1": 0.5716385866385866,
+  "tfidf_weighted_f1": 0.6302313238563237
+}

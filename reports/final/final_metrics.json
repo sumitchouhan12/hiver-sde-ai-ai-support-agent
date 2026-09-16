@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.635,
+  "macro_f1": 0.5716385866385866,
+  "weighted_f1": 0.6302313238563237,
+  "n_rows": 200,
+  "gold_label_column": "human_intent",
+  "label_status": "USER-SUPPLIED HUMAN LABELS"
+}

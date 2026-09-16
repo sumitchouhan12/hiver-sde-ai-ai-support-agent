@@ -1,0 +1,7 @@
+{
+  "training_rows": 10000,
+  "training_label_source": "heuristic weak labels; NOT hand-labelled",
+  "golden_rows": 200,
+  "gold_label_column": "human_intent",
+  "gold_label_status": "USER-SUPPLIED HUMAN LABELS"
+}
