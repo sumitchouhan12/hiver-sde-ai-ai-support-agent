@@ -1,4 +1,4 @@
-# Hiver SDE Intern Take-Home: AI Support Agent
+#  AI Support Agent
 
 A small AI support-agent prototype built using the **AppleSupport** brand from the Kaggle Customer Support on Twitter dataset.
 
