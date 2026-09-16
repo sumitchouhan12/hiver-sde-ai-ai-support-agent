@@ -1,0 +1,10 @@
+{
+  "golden_rows": 200,
+  "majority_class": "general_complaint_unclear",
+  "majority_accuracy": 0.31,
+  "majority_macro_f1": 0.0473,
+  "tfidf_logistic_accuracy": 0.635,
+  "tfidf_logistic_macro_f1": 0.5716,
+  "tfidf_logistic_weighted_f1": 0.6302,
+  "label_source": "User-supplied human-labelled file"
+}

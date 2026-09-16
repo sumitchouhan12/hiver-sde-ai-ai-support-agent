@@ -1,0 +1,5 @@
+{
+  "training_rows": 10000,
+  "label_source": "heuristic weak labels; NOT hand-labelled",
+  "golden_rows": 200
+}

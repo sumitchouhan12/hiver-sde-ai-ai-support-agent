@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.635,
+  "macro_f1": 0.5716385866385866,
+  "weighted_f1": 0.6302313238563237,
+  "n_rows": 200,
+  "label_status": "AI-assisted proposed labels; human review required"
+}
